@@ -4,7 +4,6 @@ import { Section1, Section2 , Section3 , Section3_1 , Section4 , Section5 , Sect
 function Main() {
   return (
     <main id='main'>
-      {/* <Loader /> */}
       <Section1 />
       <Section2 />
       <Section3 />
