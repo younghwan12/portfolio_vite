@@ -1,0 +1,38 @@
+/* #footer */
+
+#footer {
+    /* margin-top: 500px; */
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000;
+  }
+  .footer__txt {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 2%;
+    position: relative;
+  }
+  
+  .profile2 {
+    width: 10vw;
+    right: 43.5%;
+    bottom: 88%;
+  }
+  .footer__txt h2 {
+    text-transform: uppercase;
+    font-family: "Montserrat";
+    font-size: 2vw;
+    margin-bottom: 40px;
+  }
+  .footer__txt > div {
+    font-family: "Montserrat";
+    font-size: 1.2vw;
+    margin: 10px;
+  }
+  
+  .footer__txt > div > a:hover {
+    border-bottom: 1px solid #fff ;
+  
+  }
