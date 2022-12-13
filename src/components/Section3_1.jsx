@@ -52,7 +52,7 @@ function Section3_1() {
                                 />
                             </clipPath>
                             <g clipPath="url(#mask1)">
-                                <image xlinkHref="../src/assets/img/my02.jpg" x="20px" y="0" height="100%" width="100%" preserveAspectRatio="xMaxYMax slice"/>
+                                <image xlinkHref="images/my02.jpg" x="20px" y="0" height="100%" width="100%" preserveAspectRatio="xMaxYMax slice"/>
                             </g>
                             <path
                                 fillRule="evenodd"
@@ -85,16 +85,16 @@ function Section3_1() {
             </div>
             <div className="section__outer">
                 <div className="decor petrychka">
-                    <img src="../src/assets/img/petrychka.svg" aria-hidden="true" alt="petrychka"/>
+                    <img src="images/petrychka.svg" aria-hidden="true" alt="petrychka"/>
                 </div>
                 <div className="decor knife">
-                    <img src="../src/assets/img/knife.svg" aria-hidden="true" alt="knife"/>
+                    <img src="images/knife.svg" aria-hidden="true" alt="knife"/>
                 </div>
                 <div className="decor arrow-btm">
-                    <img src="../src/assets/img/arrow-right-btn.svg" aria-hidden="true" alt="arrow-btm"/>                    
+                    <img src="images/arrow-right-btn.svg" aria-hidden="true" alt="arrow-btm"/>                    
                 </div>
                 <div className="decor sec03_waves">
-                    <img src="../src/assets/img/waves.svg" aria-hidden="true" alt="waves"/>
+                    <img src="images/waves.svg" aria-hidden="true" alt="waves"/>
                 </div>
             </div>
         </section>

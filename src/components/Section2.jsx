@@ -22,30 +22,30 @@ function Section2() {
         </div>
         <div className="section__outer">
             <div className="decor cloud-section">
-                <img src="../src/assets/img/cloud-section.svg" aria-hidden="true" alt="cloud-section"/>
+                <img src="images/cloud-section.svg" aria-hidden="true" alt="cloud-section"/>
             </div>
             <div className="decor plane">
                 <div className="decor plane-body">
-                    <img src="../src/assets/img/plane.svg" aria-hidden="true" alt="plane-body"/>
+                    <img src="images/plane.svg" aria-hidden="true" alt="plane-body"/>
                 </div>
                 <div className="decor plane-cloud">
-                    <img src="../src/assets/img/plane-cloud-big.svg" aria-hidden="true" alt="plane-cloud"/>
+                    <img src="images/plane-cloud-big.svg" aria-hidden="true" alt="plane-cloud"/>
                 </div>
             </div>                 
             <div className="decor black-cloud1">
-                <img src="../src/assets/img/blackcloud-big.svg" aria-hidden="true" alt="black-cloud1" aria-label="hidden"/>
+                <img src="images/blackcloud-big.svg" aria-hidden="true" alt="black-cloud1" aria-label="hidden"/>
             </div>
             <div className="decor black-cloud2">
-                <img src="../src/assets/img/blackcloud-medium.svg" aria-hidden="true" alt="black-cloud2"/>
+                <img src="images/blackcloud-medium.svg" aria-hidden="true" alt="black-cloud2"/>
             </div>
             <div className="decor black-cloud3">
-                <img src="../src/assets/img/blackcloud-medium.svg" aria-hidden="true" alt="black-cloud3"/>
+                <img src="images/blackcloud-medium.svg" aria-hidden="true" alt="black-cloud3"/>
             </div>
             <div className="decor halfmoon">
-                <img src="../src/assets/img/halfmoon.svg" aria-hidden="true" alt="halfmoon"/>
+                <img src="images/halfmoon.svg" aria-hidden="true" alt="halfmoon"/>
             </div>
             <div className="decor town">
-                <img src="../src/assets/img/town.svg" aria-hidden="true" alt="town"/>
+                <img src="images/town.svg" aria-hidden="true" alt="town"/>
             </div>
         </div>
     </section>

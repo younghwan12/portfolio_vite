@@ -176,7 +176,7 @@ function Section6_1() {
       </div>
       <div className="section__outer">
           <div className="decor sec06-divider">
-              <img src="../src/assets/img/divider.svg" alt="sec06-divider" />
+              <img src="images/divider.svg" alt="sec06-divider" />
           </div>                
       </div>
     </section>

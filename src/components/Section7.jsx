@@ -5,7 +5,7 @@ function Section7() {
     <section id="section07">
       <div className="section__outer">
           <div className="decor lanspace">
-              <img src="../src/assets/img/landspace.svg" alt="landspace" />
+              <img src="images/landspace.svg" alt="landspace" />
           </div>
       </div>
     </section>

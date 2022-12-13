@@ -16,7 +16,7 @@ function Section4_5() {
                         <path fillRule="evenodd" clipRule="evenodd" d="M1265.93 808.627C1263.8 808.033 1262.67 805.781 1263.48 803.72C1266.15 796.888 1272.34 783.264 1278.59 784.608C1286.9 786.395 1296.6 802.738 1291.92 809.245C1288.39 814.163 1273.16 810.641 1265.93 808.627Z" fill="white" />
                         <path fillRule="evenodd" clipRule="evenodd" d="M8.97428 12.7841C8.67534 10.6432 10.2161 8.7351 12.3736 8.58598C19.355 8.10343 33.4599 7.88343 34.6565 13.8369C36.2523 21.7762 25.7093 36.8921 18.2778 35.5156C12.6748 34.4778 9.9674 19.8967 8.97428 12.7841Z" fill="white" />
                       </svg>
-                      <img className="siteimage01" src="../src/assets/img/siteimage04.png" alt="siteimage04" />
+                      <img className="siteimage01" src="images/siteimage04.png" alt="siteimage04" />
                   </div>
               </div>
               <div className="sec04-con__right">
@@ -37,22 +37,22 @@ function Section4_5() {
       </div>
       <div className="section__outer">
           <div className="decor strainer2">
-              <img src="../src/assets/img/strainer.svg" aria-hidden="true" alt="strainer"/>
+              <img src="images/strainer.svg" aria-hidden="true" alt="strainer"/>
           </div>
           <div className="decor bubble01">
-              <img src="../src/assets/img/bubble-1.svg" aria-hidden="true" alt="bubble01"/>
+              <img src="images/bubble-1.svg" aria-hidden="true" alt="bubble01"/>
           </div>
           <div className="decor bubble02">
-              <img src="../src/assets/img/bubble-1.svg" aria-hidden="true" alt="bubble02"/>
+              <img src="images/bubble-1.svg" aria-hidden="true" alt="bubble02"/>
           </div>
           <div className="decor bubble03">
-              <img src="../src/assets/img/bubble-1.svg" aria-hidden="true" alt="bubble03"/>
+              <img src="images/bubble-1.svg" aria-hidden="true" alt="bubble03"/>
           </div>
           <div className="decor bubble04">
-              <img src="../src/assets/img/bubble-1.svg" aria-hidden="true" alt="bubble04"/>
+              <img src="images/bubble-1.svg" aria-hidden="true" alt="bubble04"/>
           </div>
           <div className="decor bubble05">
-              <img src="../src/assets/img/bubble-1.svg" aria-hidden="true" alt="bubble05"/>
+              <img src="images/bubble-1.svg" aria-hidden="true" alt="bubble05"/>
           </div>
       </div>
   </section>

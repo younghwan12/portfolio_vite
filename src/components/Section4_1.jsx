@@ -30,7 +30,7 @@ function Section4_1() {
       </div>
       <div className="section__outer">
           <div className="decor plane2">
-              <img src="../src/assets/img/plane.svg" aria-hidden="true" alt="plane02"/>
+              <img src="images/plane.svg" aria-hidden="true" alt="plane02"/>
           </div>                        
       </div>
   </section>

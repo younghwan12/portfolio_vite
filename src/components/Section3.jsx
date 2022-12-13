@@ -47,7 +47,7 @@ function Section3() {
                             />
                         </clipPath>
                         <g clipPath="url(#mask1)">
-                            <image xlinkHref="../src/assets/img/my01.jpg" x="0" y="0" height="100%" width="100%" preserveAspectRatio="xMaxYMax slice"/>
+                            <image xlinkHref="images/my01.jpg" x="0" y="0" height="100%" width="100%" preserveAspectRatio="xMaxYMax slice"/>
                         </g>
                         <path
                             fillRule="evenodd"
@@ -85,19 +85,19 @@ function Section3() {
                     </div>                            
                 </div>
                 <div className="divider">
-                    <img src="../src/assets/img/divider.svg" alt="divider"/>
+                    <img src="images/divider.svg" alt="divider"/>
                 </div>
             </div>
         </div>
         <div className="section__outer">
             <div className="decor modal-title-decor">
-                <img src="../src/assets/img/modal-title-decor.svg" aria-hidden="true" alt="modal-title-decor"/>
+                <img src="images/modal-title-decor.svg" aria-hidden="true" alt="modal-title-decor"/>
             </div>
             <div className="decor cone">
-                <img src="../src/assets/img/cone.svg" aria-hidden="true" alt="cone"/>
+                <img src="images/cone.svg" aria-hidden="true" alt="cone"/>
             </div>
             <div className="decor cat">
-                <img src="../src/assets/img/cat.svg" aria-hidden="true" alt="cat"/>
+                <img src="images/cat.svg" aria-hidden="true" alt="cat"/>
             </div>
         </div>
     </section>

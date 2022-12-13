@@ -7,7 +7,7 @@ function Section5() {
             <div className="wrapper__inner__big">
                 <div className="sec05__tit">The script</div>
                 <div className="sec05_divider">
-                    <img src="../src/assets/img/divider--white.svg" alt="waves"/>
+                    <img src="images/divider--white.svg" alt="waves"/>
                 </div>
                 <div className="sec05__txt1">
                     <div className="sec05__txt1__t1 split">자바스크립트를 처음 배우면서 만든 다양한 효과들입니다.</div>
@@ -19,16 +19,16 @@ function Section5() {
         </div>
         <div className="section__outer">
             <div className="decor sec05_waves">
-                <img src="../src/assets/img/waves02.svg" alt="waves"/>
+                <img src="images/waves02.svg" alt="waves"/>
             </div>
             <div className="decor bus">
-                <img src="../src/assets/img/bus.svg" alt="bus"/>
+                <img src="images/bus.svg" alt="bus"/>
             </div>
             <div className="decor spoon2">
-                <img src="../src/assets/img/spoon.svg" alt="spoon2"/>
+                <img src="images/spoon.svg" alt="spoon2"/>
             </div>
             <div className="decor sec05_cloud1">
-                <img src="../src/assets/img/bottle-cloud-big.svg" alt="sec05_cloud1"/>
+                <img src="images/bottle-cloud-big.svg" alt="sec05_cloud1"/>
             </div>                                             
         </div>
     </section>

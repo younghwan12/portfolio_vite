@@ -18,16 +18,16 @@ function Section6() {
         </div>
         <div className="section__outer">
             <div className="decor wave-bottom">
-                <img src="../src/assets/img/wave-bottom.svg" alt="wave-bottom"/>
+                <img src="images/wave-bottom.svg" alt="wave-bottom"/>
             </div>
             <div className="decor wire">
-                <img src="../src/assets/img/wire.svg" alt="wire"/>
+                <img src="images/wire.svg" alt="wire"/>
             </div>
             <div className="decor bridge">
-                <img src="../src/assets/img/bridge.svg" alt="bridge"/>
+                <img src="images/bridge.svg" alt="bridge"/>
             </div>
             <div className="decor air-balloon">
-                <img src="../src/assets/img/air-balloon.svg" alt="air-balloon"/>
+                <img src="images/air-balloon.svg" alt="air-balloon"/>
             </div>
         </div>
         </section>

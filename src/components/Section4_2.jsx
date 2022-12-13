@@ -15,7 +15,7 @@ function Section4_2() {
                           <path fillRule="evenodd" clipRule="evenodd" d="M1265.93 808.627C1263.8 808.033 1262.67 805.781 1263.48 803.72C1266.15 796.888 1272.34 783.264 1278.59 784.608C1286.9 786.395 1296.6 802.738 1291.92 809.245C1288.39 814.163 1273.16 810.641 1265.93 808.627Z" fill="white" />
                           <path fillRule="evenodd" clipRule="evenodd" d="M8.97428 12.7841C8.67534 10.6432 10.2161 8.7351 12.3736 8.58598C19.355 8.10343 33.4599 7.88343 34.6565 13.8369C36.2523 21.7762 25.7093 36.8921 18.2778 35.5156C12.6748 34.4778 9.9674 19.8967 8.97428 12.7841Z" fill="white" />
                       </svg>
-                      <img className="siteimage01" src="../src/assets/img/siteimage01.png" alt="siteimage01"/>
+                      <img className="siteimage01" src="images/siteimage01.png" alt="siteimage01"/>
                   </div>
                   <div className="sec04-01__tit">01. 웹 표준 사이트 </div>
               </div>
@@ -35,13 +35,13 @@ function Section4_2() {
       </div>
       <div className="section__outer">
           <div className="decor formula-apple">
-              <img src="../src/assets/img/formula-apple.svg" alt="formula-apple"/>
+              <img src="images/formula-apple.svg" alt="formula-apple"/>
           </div>
           <div className="decor formula-wheat">
-              <img src="../src/assets/img/formula-wheat-2.svg" alt="formula-wheat"/>
+              <img src="images/formula-wheat-2.svg" alt="formula-wheat"/>
           </div>
           <div className="decor spoon">
-              <img src="../src/assets/img/spoon.svg" aria-hidden="true" alt="spoon"/>
+              <img src="images/spoon.svg" aria-hidden="true" alt="spoon"/>
           </div>
       </div>
   </section>
