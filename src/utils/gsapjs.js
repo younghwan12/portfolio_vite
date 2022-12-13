@@ -179,6 +179,7 @@ const gsapjs = () => {
   gsap.to(".plane", {x:0, y:0,z:0, scale:1});
   // 합격
 
+
   gsap.to(".txt1 span", {duration: .3, delay: 1 ,opacity: 1, yPercent: 0, stagger: 0.09});
   gsap.to(".txt2 span", {duration: .3, delay: 2 ,opacity: 1, y: 0, stagger: 0.09});
   gsap.to(".section01__inner img", {duration: .6, delay: 3, scale: 1, opacity: 1, ease: "slow(0.7, 0.7, false)", y: 0});
