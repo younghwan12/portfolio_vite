@@ -1,3 +1,4 @@
+export { default as ImgLoader } from './ImgLoader';
 export { default as Loader } from './Loader';
 export { default as Section1 } from './Section1';
 export { default as Section2 } from './Section2';
