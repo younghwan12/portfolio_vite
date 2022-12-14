@@ -183,14 +183,14 @@ const gsapjs = () => {
 //   gsap.set(".lds-spinner", {opacity: 1, marginTop: 50})
 //   gsap.to(".lds-spinner", {duration: 5, display:"none"})
 
-  gsap.to(".txt1 span", {duration: .3, delay: 1 ,opacity: 1, yPercent: 0, stagger: 0.09});
-  gsap.to(".txt2 span", {duration: .3, delay: 2 ,opacity: 1, y: 0, stagger: 0.09});
-  gsap.to(".section01__inner img", {duration: .6, delay: 3, scale: 1, opacity: 1, ease: "slow(0.7, 0.7, false)", y: 0});
-  gsap.to(".cloud1", {duration: 1, delay: 4, opacity: 1, ease: "power2.out"});
-  gsap.to("#header", {duration: 1, delay: 5, y:0});
+  gsap.to(".txt1 span", {duration: .3, delay: 3 ,opacity: 1, yPercent: 0, stagger: 0.09});
+  gsap.to(".txt2 span", {duration: .3, delay: 4 ,opacity: 1, y: 0, stagger: 0.09});
+  gsap.to(".section01__inner img", {duration: .6, delay: 5, scale: 1, opacity: 1, ease: "slow(0.7, 0.7, false)", y: 0});
+  gsap.to(".cloud1", {duration: 1, delay: 6, opacity: 1, ease: "power2.out"});
+  gsap.to("#header", {duration: 1, delay: 7, y:0});
   // section01
 
-  const tl = gsap.timeline({
+  const t2 = gsap.timeline({
       scrollTrigger: {
           trigger: ".cloud-section",
           // markers: true,

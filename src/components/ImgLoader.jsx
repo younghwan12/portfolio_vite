@@ -27,11 +27,11 @@ function ImgLoader({ setIsLoading }) {
           setTimeout(() => {
             const tl = gsap.timeline();
             tl.to(['.loading__ani', '.loading__text'], { duration: 0.2, opacity: 0 });
-            tl.to('.loading', { duration: 0.5, opacity: 0 });
+            tl.to(['.lds-spinner'], { duration: 0.2, opacity: 0 });
           }, 1000);
-          setTimeout(() => {
-            setIsLoading(false);
-          }, 1500);
+          // setTimeout(() => {
+          //   setIsLoading(false);
+          // }, 1500);
         }
         // imgCurrent가 99보다 크면 100으로 간주
         if (imgCurrent > 99) {
@@ -44,6 +44,20 @@ function ImgLoader({ setIsLoading }) {
 
   return (
     <div className="loading">
+      <div className="lds-spinner">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
       <div className="loading__ani">loading</div>
       <span className="loading__text">0%</span>
     </div>

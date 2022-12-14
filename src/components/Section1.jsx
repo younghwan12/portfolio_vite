@@ -1,23 +1,11 @@
 import React from 'react'
+import ImgLoader from './ImgLoader'
 
 function Section1() {
   return (
     <section id="section01">
-        <div className="section01__inner">
-          {/* <div className="lds-spinner">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div> */}
+        <div className="section01__inner">          
+          <ImgLoader />
           <div className="txt1 split">코딩과 함께 한 모든</div>
           <div className="txt2 split">순간이 눈부셨다</div>
           <img src="images/profile.png" alt="profile"/>
