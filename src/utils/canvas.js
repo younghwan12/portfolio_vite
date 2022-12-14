@@ -13,7 +13,7 @@ const canvas = () => {
         
         
     const data = [star, snow2, snow3]
-    const max = 30
+    const max = 15
     let particles = []
 
     class Ball {
