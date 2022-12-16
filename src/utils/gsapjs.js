@@ -585,6 +585,7 @@ const gsapjs = () => {
   gsap.set(".sec04-03__txt1__t2 span", {opacity:0 , xPercent:-100, yPercent:100})
   gsap.set(".sec04-03__txt1__t3 span", {opacity:0 , xPercent:-100, yPercent:100})
   gsap.set(".sec04-03__txt1__t4 span", {opacity:0 , xPercent:-100, yPercent:100})
+  gsap.set(".sec04-03__txt1__t5 span", {opacity:0 , xPercent:-100, yPercent:100})
 
   
   gsap.set(".sec04-04__txt1__t1 span", {opacity:0 , xPercent:-100, yPercent:100})
@@ -725,6 +726,15 @@ const gsapjs = () => {
           scrub: false,
       }
   });
+  gsap.to(".sec04-03__txt1__t5 span", {
+    xPercent:0, yPercent:0, opacity :1, stagger:0.015, ease: "power3.InOut",
+    scrollTrigger: {
+        trigger: ".star2",
+        containerAnimation: scrollTween,
+        start: "left 70%",
+        scrub: false,
+    }
+});
   gsap.to("#section04-3 ul li", {scale:1, delay:2, ease: "bounce.out",
       scrollTrigger: {
           trigger: ".star1",
