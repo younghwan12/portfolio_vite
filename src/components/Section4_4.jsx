@@ -25,10 +25,12 @@ function Section4_4() {
                       <div className="sec04-03__txt1__t2 split">UNSPLASH의 이미지, YOUTUBE의 영상등</div>
                       <div className="sec04-03__txt1__t3 split">각종 사이트들의 API를 이용해서 만든 사이트입니다.</div>
                       <div className="sec04-03__txt1__t4 split">검색기능과 카테고리 선택도 가능합니다.</div>
+                      <div className="sec04-03__txt1__t5 split">음악사이트도 만들어봤으니 확인해보세요!</div>
                   </div>
                   <ul>
                       <li><a href="https://github.com/younghwan12/reactapi" target="_blank">코드보기</a></li>
                       <li><a href="https://reactapihwan.netlify.app/" target="_blank">바로보기</a></li>
+                      <li><a href="https://lyriksmusichwan.netlify.app" target="_blank">음악보기</a></li>
                   </ul>
               </div>
           </div>
