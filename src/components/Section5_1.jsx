@@ -9,7 +9,7 @@ function Section5_1() {
                     <div className="sec05__left">
                         <figure className="bigCard Card1">                                
                             <img src="images/scriptbg.png" alt="scriptbg1"/>
-                            <a href="https://younghwan12.github.io/codingclassName/javascript/effect/parallaxEffect01.html" target="_blank"><img className="script01" src="images/script01.png" alt="script01"/></a> 
+                            <a href="https://younghwan12.github.io/codingclass/javascript/effect/parallaxEffect01.html" target="_blank"><img className="script01" src="images/script01.png" alt="script01"/></a> 
                             <div className="sec05__card__tit Card1__tit">
                                 패럴랙스
                             </div>
@@ -19,7 +19,7 @@ function Section5_1() {
                         </figure>
                         <figure className="smallCard Card3">
                             <img src="images/scriptbg.png" alt="scriptbg3"/>
-                            <a href="https://younghwan12.github.io/codingclassName/javascript/effect/quizEffect01.html" target="_blank"><img className="script02" src="images/script03.png" alt="script03"/></a>
+                            <a href="https://younghwan12.github.io/codingclass/javascript/effect/quizEffect01.html" target="_blank"><img className="script02" src="images/script03.png" alt="script03"/></a>
                             <div className="sec05__card__tit Card3__tit">
                                 퀴즈
                             </div>
@@ -29,7 +29,7 @@ function Section5_1() {
                         </figure>
                         <figure className="bigCard Card5">
                             <img src="images/scriptbg.png" alt="scriptbg5"/>
-                            <a href="https://younghwan12.github.io/codingclassName/javascript/effect/gameEffect01.html" target="_blank"><img className="script01" src="images/script05.png" alt="script05"/></a>
+                            <a href="https://younghwan12.github.io/codingclass/javascript/effect/gameEffect01.html" target="_blank"><img className="script01" src="images/script05.png" alt="script05"/></a>
                             <div className="sec05__card__tit Card5__tit">
                                 테트리스
                             </div>
@@ -41,7 +41,7 @@ function Section5_1() {
                     <div className="sec05__right">
                         <figure className="smallCard Card2">
                             <img src="images/scriptbg.png" alt="scriptbg2"/>
-                            <a href="https://younghwan12.github.io/codingclassName/javascript/effect/searchEffect01.html" target="_blank"><img className="script02" src="images/script02.png" alt="script02"/></a>                                
+                            <a href="https://younghwan12.github.io/codingclass/javascript/effect/searchEffect01.html" target="_blank"><img className="script02" src="images/script02.png" alt="script02"/></a>                                
                             <div className="sec05__card__tit Card2__tit">
                                 서치
                             </div>
@@ -51,7 +51,7 @@ function Section5_1() {
                         </figure>
                         <figure className="bigCard Card4">
                             <img src="images/scriptbg.png" alt="scriptbg4"/>
-                            <a href="https://younghwan12.github.io/codingclassName/javascript/effect/mouseEffect01.html" target="_blank"><img className="script01" src="images/script04.png" alt="script04"/></a>
+                            <a href="https://younghwan12.github.io/codingclass/javascript/effect/mouseEffect01.html" target="_blank"><img className="script01" src="images/script04.png" alt="script04"/></a>
                             <div className="sec05__card__tit Card4__tit">
                                 마우스
                             </div>
@@ -61,7 +61,7 @@ function Section5_1() {
                         </figure>
                         <figure className="smallCard Card6">
                             <img src="images/scriptbg.png" alt="scriptbg6"/>
-                            <a href="https://younghwan12.github.io/codingclassName/javascript/effect/sliderEffect01.html" target="_blank"><img className="script02" src="images/script06.png" alt="script06"/></a>
+                            <a href="https://younghwan12.github.io/codingclass/javascript/effect/sliderEffect01.html" target="_blank"><img className="script02" src="images/script06.png" alt="script06"/></a>
                             <div className="sec05__card__tit Card6__tit">
                                 슬라이드
                             </div>
