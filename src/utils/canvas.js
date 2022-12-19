@@ -71,12 +71,15 @@ const canvas = () => {
         return Math.floor(Math.random() * (max - min + 1) + min);
     }
 
+    setTimeout(() => {
+        for (let i = 0; i < max; i++) {
+            particles.push(
+                new Ball(data[randomInt(0, data.length - 1)])
+            )
+        }        
+    }, 7000);
 
-    for (let i = 0; i < max; i++) {
-        particles.push(
-            new Ball(data[randomInt(0, data.length - 1)])
-        )
-    }
+
 
     function update() {
         particles = particles.filter(function (p) {
