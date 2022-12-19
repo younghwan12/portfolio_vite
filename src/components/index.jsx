@@ -11,6 +11,7 @@ export { default as Section4_3 } from './Section4_3';
 export { default as Section4_4 } from './Section4_4';
 export { default as Section4_5 } from './Section4_5';
 export { default as Section4_6 } from './Section4_6';
+export { default as Section4_7 } from './Section4_7';
 export { default as Section5 } from './Section5';
 export { default as Section5_1 } from './Section5_1';
 export { default as Section6 } from './Section6';

@@ -30,7 +30,6 @@ function Section4_4() {
                   <ul>
                       <li><a href="https://github.com/younghwan12/reactapi" target="_blank">코드보기</a></li>
                       <li><a href="https://reactapihwan.netlify.app/" target="_blank">바로보기</a></li>
-                      <li><a href="https://lyriksmusichwan.netlify.app" target="_blank">음악보기</a></li>
                   </ul>
               </div>
           </div>

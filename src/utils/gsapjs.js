@@ -569,7 +569,7 @@ const gsapjs = () => {
   gsap.set("#section04-2 ul li", {scale:0})
   gsap.set("#section04-3 ul li", {scale:0})
   gsap.set("#section04-4 ul li", {scale:0})
-  gsap.set("#section04-5 ul li", {scale:0})
+  gsap.set("#section04-6 ul li", {scale:0})
   
   gsap.set(".sec04-01__txt1__t1 span", {opacity:0 , xPercent:-100, yPercent:100})
   gsap.set(".sec04-01__txt1__t2 span", {opacity:0 , xPercent:-100, yPercent:100})
@@ -799,7 +799,7 @@ const gsapjs = () => {
   gsap.to(".sec04-05__txt1__t1 span", {
       xPercent:0, yPercent:0, opacity :1, stagger:0.015, ease: "power4.InOut",
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 20%",
           scrub: false,
@@ -808,7 +808,7 @@ const gsapjs = () => {
   gsap.to(".sec04-05__txt1__t2 span", {
       xPercent:0, yPercent:0, opacity :1, stagger:0.015, ease: "power4.InOut",
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 20%",
           scrub: false,
@@ -817,7 +817,7 @@ const gsapjs = () => {
   gsap.to(".sec04-05__txt1__t3 span", {
       xPercent:0, yPercent:0, opacity :1, stagger:0.015, ease: "power4.InOut",
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 20%",
           scrub: false,
@@ -826,15 +826,15 @@ const gsapjs = () => {
   gsap.to(".sec04-05__txt1__t4 span", {
       xPercent:0, yPercent:0, opacity :1, stagger:0.015, ease: "power4.InOut",
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 20%",
           scrub: false,
       }
   });
-  gsap.to("#section04-5 ul li", {scale:1, delay:2, ease: "bounce.out",
+  gsap.to("#section04-6 ul li", {scale:1, delay:2, ease: "bounce.out",
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 20%",
           scrub: false,
@@ -1061,7 +1061,7 @@ const gsapjs = () => {
   gsap.to(".rocket", {
       xPercent:-700, yPercent:-3000, rotation:-360 ,stagger:0.15, ease: "power4.InOut",
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 10%",
           scrub: true,
@@ -1071,7 +1071,7 @@ const gsapjs = () => {
   gsap.to(".station", {
       xPercent:-300, yPercent:300, stagger:0.15,
       scrollTrigger: {
-          trigger: "#section04-5",
+          trigger: "#section04-6",
           containerAnimation: scrollTween,
           start: "left 10%",
           scrub: true,

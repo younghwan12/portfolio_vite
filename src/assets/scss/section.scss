@@ -455,7 +455,7 @@
   }
   .horizontalSection {
     overscroll-behavior: none;
-    width: 600%;
+    width: 700%;
     display: flex;
     flex-wrap: nowrap;
   }
@@ -494,6 +494,12 @@
     padding-top: 1%;
   }
   #section04-5 {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    padding-top: 1%;
+  }
+  #section04-6 {
     width: 100%;
     height: 100vh;
     position: relative;
@@ -570,7 +576,7 @@
     /* margin-top: 30px; */
     font-size: 5vw;
   }
-  .sec04-01__txt1, .sec04-02__txt1, .sec04-03__txt1, .sec04-04__txt1, .sec04-05__txt1 {
+  .sec04-01__txt1, .sec04-02__txt1, .sec04-03__txt1, .sec04-04__txt1, .sec04-05__txt1, .sec04-06__txt1 {
     color: #fff;
     font-family: 'Aritaburi';
     font-size: 1.4vw;
@@ -578,7 +584,7 @@
     margin-bottom: 30px;
     white-space: nowrap;
   }
-  .sec04-01__txt1 span, .sec04-02__txt1 span, .sec04-03__txt1 span, .sec04-04__txt1 span, .sec04-05__txt1 span {
+  .sec04-01__txt1 span, .sec04-02__txt1 span, .sec04-03__txt1 span, .sec04-04__txt1 span, .sec04-05__txt1 span .sec04-06__txt1 span {
     display: inline-block;
     white-space: pre;
   }
@@ -1259,7 +1265,7 @@
     .cloudSvg, .cloudSvg {
         display: none;
     }
-    #section04-1, #section04-2, #section04-3, #section04-4, #section04-5 {
+    #section04-1, #section04-2, #section04-3, #section04-4, #section04-5, #section04-6 {
         height: auto;
         padding: 10% 0;
     }
